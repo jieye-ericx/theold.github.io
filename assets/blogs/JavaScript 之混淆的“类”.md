@@ -1,4 +1,4 @@
-## JavaScript之混淆的类
+# JavaScript之混淆的类
 
 #### 序言
 
